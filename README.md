@@ -1,7 +1,7 @@
-# CS336 Spring 2025 Assignment 1: Basics
+# Assignment 1 (basics): Building a Transformer LM
 
 For a full description of the assignment, see the assignment handout at
-[cs336_assignment1_basics.pdf](./cs336_assignment1_basics.pdf)
+[assignment1_basics.pdf](./assignment1_basics.pdf)
 
 If you see any issues with the assignment handout or code, please feel free to
 raise a GitHub issue or open a pull request with a fix.
@@ -47,4 +47,3 @@ gunzip owt_valid.txt.gz
 
 cd ..
 ```
-
